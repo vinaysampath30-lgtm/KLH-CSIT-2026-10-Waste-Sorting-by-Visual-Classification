@@ -1,1 +1,0 @@
-# KLH-CSIT-2026-10-Waste-Sorting-by-Visual-Classification
