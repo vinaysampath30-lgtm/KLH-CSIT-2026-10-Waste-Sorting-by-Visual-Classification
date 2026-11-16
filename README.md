@@ -104,7 +104,7 @@ flowchart TB
 * **The Training vs. Inference Split:** Orders-of-magnitude differences in compute, memory footprint, latency SLAs, batch sizes, and optimization objectives.
 * **The Deep-Learning Lifecycle at Scale:** Data pipelines, training loops, architecture definitions, evaluation harnesses, optimization scripts, and serving configurations.
 * **End-to-End Request Tracing:** Following a single HTTP payload through image preprocessing, tensor batching, TensorRT execution, GPU kernel invocation, and postprocessing.
-* **GPU Economics:** Architectural and financial comparison of datacenter and consumer GPUs (**NVIDIA H100 vs. A100 vs. L40S vs. RTX 4090**); hourly cloud cost vs. throughput-per-dollar ($\text{queries/sec/\$}$) reasoning.
+* **GPU Economics:** Architectural and financial comparison of datacenter and consumer GPUs (**NVIDIA H100 vs. A100 vs. L40S vs. RTX 4090**); hourly cloud cost vs. throughput-per-dollar (`queries/sec/$`) reasoning.
 
 ---
 
